@@ -8,7 +8,7 @@
 https://edu.51cto.com/course/17446.html#tab2
 
 ### 课程大纲有道云笔记链接
-https://note.youdao.com/web/#/file/WEB5c6df4960f9f34f4d4e7f02746cc65c9/note/WEB1b4e31af8c154c6c8bffeaef79b180b0/
+http://note.youdao.com/noteshare?id=b721603a72fc832fd481132bf5401e2a
 
 ### 开始时间
 
