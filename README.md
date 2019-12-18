@@ -7,6 +7,9 @@
 ### 课程链接
 https://edu.51cto.com/course/17446.html#tab2
 
+### 课程大纲有道云笔记链接
+https://note.youdao.com/web/#/file/WEB5c6df4960f9f34f4d4e7f02746cc65c9/note/WEB1b4e31af8c154c6c8bffeaef79b180b0/
+
 ### 开始时间
 
 2019.12.19
